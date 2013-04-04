@@ -7,6 +7,7 @@
 #define OKAY_OFF 7
 
 // FUNCTIONS
+extern void enable_status_led();
 extern void toggle_status_led(int);
 
 #endif
