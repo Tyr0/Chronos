@@ -2,7 +2,7 @@
 
 .globl _start
 _start:
-	bl  kern_main
+  bl  kern_main
 /* _start */
 
 _cycle:

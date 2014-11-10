@@ -13,6 +13,6 @@ int kern_main() {
     toggle_status_led(0);
     _wait(8000000);
   }
-  
+
   return 0;
 }
